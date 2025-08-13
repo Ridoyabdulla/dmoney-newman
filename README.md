@@ -1,7 +1,7 @@
 # dMoney User Integration Testing 
 
 ## Project Summary
-dMoney is a money transaction system, where user can send money, cashin money, cashout and more ! here i have created integration where dMoney admin can create some role like Customer, Agent , Marchent. Here i have added some test cases for user manipulation.
+dMoney is a money transaction system, where user can send money, cashin money, cashout and more ! here i have created integration where dMoney admin can create some role like Customer, Agent , Marchent. Here I have added some test cases for user manipulation.
 
 ## Technology:
 - postman
