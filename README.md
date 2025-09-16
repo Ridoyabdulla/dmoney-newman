@@ -23,3 +23,8 @@ https://documenter.getpostman.com/view/45503194/2sB34hG111
 
 ## Report
 <img width="929" height="871" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/1dbd62f4-a2dd-4fd4-9eff-b27cd22e94ff" />
+
+## Manual Test Cases
+<img width="1850" height="702" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/1e3ab7f3-f8c5-4d2b-92f3-caed42d73556" />
+
+
